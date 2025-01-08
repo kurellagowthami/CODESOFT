@@ -1,0 +1,9 @@
+Rock-Paper-Scissors Game in Python ✊🖐✌️
+A simple and fun Rock-Paper-Scissors game built using Python. This project lets you play the classic game against the computer, showcasing basic Python programming concepts like randomization, conditionals, and loops.
+
+Features ✨
+1.Interactive Gameplay: Play Rock-Paper-Scissors against the computer.
+2.Random Opponent: The computer's choice is randomized each round.
+3.Score Tracking: Displays the player's and computer's scores after each round.
+4.Error Handling: Handles invalid inputs gracefully.
+Beginner-friendly and easy to understand!
